@@ -6,3 +6,4 @@
 - Game ai.
 - File globber.
 - Process injector.
+- Site scrapper. 
