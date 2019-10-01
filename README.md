@@ -1,2 +1,5 @@
 # Todo
-Projects I want to do.
+- Ptrace debugger.
+- x86 disassembler.
+- Command line file manager. 
+- Port scanner.
