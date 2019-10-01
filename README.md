@@ -4,3 +4,4 @@
 - Command line file manager. 
 - Port scanner.
 - Game ai.
+- File globber.
