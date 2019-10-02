@@ -9,3 +9,4 @@
 - Site scrapper. 
 - Fully featured bash music player.
 - packet sniffer.
+- ssh extension with easier file downloading.
