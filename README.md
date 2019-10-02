@@ -7,6 +7,6 @@
 - File globber.
 - Process injector.
 - Site scrapper. 
-- Fully featured bash music player.
+- Bash music player.
 - packet sniffer.
 - ssh extension with easier file downloading.
