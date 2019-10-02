@@ -3,7 +3,7 @@
 - x86 disassembler.
 - Command line file manager. 
 - Port scanner.
-- Game ai.
+- Game ai.(idk, tetris, pacman...)
 - File globber.
 - Process injector.
 - Site scrapper. 
