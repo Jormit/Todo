@@ -7,3 +7,4 @@
 - File globber.
 - Process injector.
 - Site scrapper. 
+- Fully featured bash music player.
