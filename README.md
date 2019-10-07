@@ -10,4 +10,3 @@
 - Bash music player.
 - packet sniffer.
 - ssh extension with easier file downloading.
-- command line google with vim commands 😲
