@@ -6,7 +6,7 @@
 - Game ai.(idk, tetris, pacman...)
 - File globber.
 - Process injector.
-- Site scrapper. 
 - Bash music player.
 - packet sniffer.
 - ssh extension with easier file downloading.
+- mircro kernel.
