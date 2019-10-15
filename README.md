@@ -1,12 +1,11 @@
 # Todo
-- Ptrace debugger.
-- x86 disassembler.
-- Command line file manager. 
+- Ptrace debugger (doing).
+- Command line file manager (doing). 
 - Port scanner.
 - Game ai.(idk, tetris, pacman...)
 - File globber.
 - Process injector.
-- Bash music player.
+- Online radio from terminal.
 - packet sniffer.
 - ssh extension with easier file downloading.
 - mircro kernel.
