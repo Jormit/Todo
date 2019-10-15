@@ -1,11 +1,8 @@
 # Todo
 - Ptrace debugger (doing).
 - Command line file manager (doing). 
-- Port scanner.
 - Game ai.(idk, tetris, pacman...)
-- File globber.
 - Process injector.
 - Online radio from terminal.
-- packet sniffer.
-- ssh extension with easier file downloading.
+- packet sniffer \ Port scanner.
 - mircro kernel.
