@@ -1,8 +1,6 @@
 # Todo
-- Ptrace debugger (doing).
-- Command line file manager (doing). 
 - Game ai.(idk, tetris, pacman...)
-- Process injector.
-- Online radio from terminal.
+- Online radio\music player from terminal.
 - packet sniffer \ Port scanner.
 - mircro kernel.
+- vimrc
