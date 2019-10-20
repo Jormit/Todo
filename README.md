@@ -1,7 +1,6 @@
 # Todo
-- Online radio\music player from terminal.
-- packet sniffer \ Port scanner.
+- music player from terminal (like cmus).
+- packet sniffer.
 - mircro kernel.
 - vimrc
-- akai mpc for terminal. :o
 - Gba game.
