@@ -3,4 +3,5 @@
 - packet sniffer \ Port scanner.
 - mircro kernel.
 - vimrc
-- mpc bash. :o
+- akai mpc for terminal. :o
+- Gba game.
