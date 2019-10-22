@@ -1,6 +1,6 @@
 # Todo
 - music player from terminal (like cmus).
-- packet sniffer.
+- synthesiser.
+- Reverb vst.
 - mircro kernel.
-- vimrc
 - Gba game.
