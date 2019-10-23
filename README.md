@@ -1,6 +1,6 @@
 # Todo
-- music player from terminal (like cmus).
 - synthesiser.
 - Reverb vst.
+- Learn juce.
 - mircro kernel.
 - Gba game.
