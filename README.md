@@ -1,6 +1,4 @@
 # Todo
-- synthesiser.
-- Reverb vst.
-- Learn juce.
+- Reverb vst in JUCE.
 - mircro kernel.
 - Gba game.
