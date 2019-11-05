@@ -1,4 +1,7 @@
 # Todo
-- Reverb vst in JUCE.
+- Vst synth.
+- Vst effects.
 - mircro kernel.
 - Gba game.
+- Packet sniffer.
+- Blogsite.
