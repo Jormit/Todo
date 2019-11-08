@@ -1,7 +1,8 @@
 # Todo
 - Vst synth.
 - Vst effects.
-- mircro kernel.
+- Micro kernel.
 - Gba game.
 - Packet sniffer.
+- Opengl
 - Blogsite.
