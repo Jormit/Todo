@@ -1,8 +1,7 @@
 # Todo
+- Opengl game engine.
+- Vst reverb.
 - Vst synth.
-- Vst effects.
 - Micro kernel.
 - Gba game.
-- Packet sniffer.
-- Opengl
 - Blogsite.
