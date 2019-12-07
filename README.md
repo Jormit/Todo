@@ -3,5 +3,5 @@
 - Vst reverb.
 - Vst synth.
 - Micro kernel.
-- Gba game.
+- Vim based notetaking setup.
 - Blogsite.
