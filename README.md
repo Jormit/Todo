@@ -1,7 +1,6 @@
 # Todo
-- Opengl model viewer.
-- Opengl quake style game engine.
-- Opengl photo editor.
+- Quake style game engine.
+- Simple photo editor.
 - Vst compressor.
 - Vst reverb.
 - Vst synth.
