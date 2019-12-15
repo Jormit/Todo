@@ -1,6 +1,6 @@
 # Todo
 - Quake style game engine.
-    * Can load 3d models (.obj, .md2, .md3..) and do basic transformations and keyframe animation.
+    * Can load 3d models (.obj and .dae) and do basic transformations and bone animation.
     * Can load maps and check collision with walls and ground.
     * Lighting.
     * Projectiles with collision.
