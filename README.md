@@ -10,9 +10,6 @@
     * Apply effects (eg. saturation, black/white, filters, constrast).
     * Apply brushes.
     * Gui.
-- Mathematical equation graphing tool (2d and 3d).
-    * Allow for arbitary expressions to be entered with x, y, z coordinates.
-    * Parse expression and display a 3d or 2d graph of this relationship. (Probably won't parse dynamically, but will need to be compiled instead.). 
 - Vst compressor.
     * Threshold, ratio and gain settings.
     * Smooth envelope follower.
