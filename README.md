@@ -3,9 +3,6 @@
     * Load sprites and tile maps.
     * Collision detection.
     * Example game??
-- Vst reverb.
-    * Can generate arbitary decay sizes with initial reflections to simulate realism.
-    * Add filtering.
 - Vst synth.
     * Additive synthesis of standard waveforms.
     * Filters, effects, envelopes....
